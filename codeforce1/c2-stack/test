@@ -1,0 +1,17 @@
+size
+push 23
+back
+size
+clear
+size
+push 111
+push 222
+push 333
+size
+pop
+pop
+size
+pop
+pop
+pop
+exit
